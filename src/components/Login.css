@@ -1,0 +1,39 @@
+
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #1abc9c ;
+  }
+  
+  .login-box {
+    padding: 30px;
+    width: 100%;
+    max-width: 400px;
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+ 
+  .login-btn {
+    margin-top: 15px;
+    padding: 10px;
+  }
+  
+  /* Register link */
+  .register-link {
+    margin-top: 10px;
+  }
+  
+  .register-link a {
+    color: #4a90e2;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  
+  .register-link a:hover {
+    text-decoration: underline;
+  }
+  
